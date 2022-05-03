@@ -6,12 +6,12 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 
 😁   Looking for colaborate in Back-end projects
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://www.pucpr.br">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário de TI** na <a href="https://iscbrazil.com/pt-br/">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.pucpr.br">PUCPR</a>.
+- 💼 &nbsp; Trabalhando como **Estagiário de TI** na <a href="https://iscbrazil.com/pt-br/">Escola Internacional de Curitiba</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Python e Java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -59,7 +59,7 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Anderson](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonfuzino/)](https://www.linkedin.com/in/andersonfuzino/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
