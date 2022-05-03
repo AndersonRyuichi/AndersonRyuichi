@@ -6,14 +6,11 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 
 😁   Looking for colaborate in Back-end projects
 
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://www.pucpr.br">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **Estagiário de TI** na <a href="https://iscbrazil.com/pt-br/">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
