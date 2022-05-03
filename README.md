@@ -11,7 +11,7 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.pucpr.br">PUCPR</a>.
 - 💼 &nbsp; Trabalhando como **Estagiário de TI** na <a href="https://iscbrazil.com/pt-br/">Escola Internacional de Curitiba</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Python e Java**.
+- 🌱 &nbsp; Aprendendo mais sobre **Análise do impacto da escala de dados na detecção de mudanças de conceito.**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
