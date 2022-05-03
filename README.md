@@ -6,11 +6,11 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 
 😁   Looking for colaborate in Back-end projects
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+<br /> -->
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<!-- I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
@@ -26,6 +26,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 #### My LinkedIn: ([Link for my perfil](https://www.linkedin.com/in/anderson-fuzino-842b43160/))
