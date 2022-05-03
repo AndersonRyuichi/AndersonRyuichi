@@ -11,7 +11,7 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.pucpr.br">PUCPR</a>.
 - 💼 &nbsp; Trabalhando como **Estagiário de TI** na <a href="https://iscbrazil.com/pt-br/">Escola Internacional de Curitiba</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Análise do impacto da escala de dados na detecção de mudanças de conceito.**.
+- 🌱 &nbsp; Aprendendo mais sobre **Análise do impacto da escala de dados na detecção de mudanças de conceito**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -19,14 +19,11 @@ Currently studying new concepts to improve my knowledge. Whatever I am learning,
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Utilidades**
 
