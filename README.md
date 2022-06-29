@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.pucpr.br">PUCPR</a>.
-- 💼 &nbsp; Working as an **IT Intern** at <a href="https://iscbrazil.com/pt-br/">Internacional School of Curitiba</a>
+- 💼 &nbsp; Working in Systems Administrations
 - 🌱 &nbsp; Learning more about **Analyzing the Impact of Data Scale on Concept Change Detection**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
