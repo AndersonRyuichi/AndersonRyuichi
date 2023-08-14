@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.pucpr.br">PUCPR</a>.
-- 💼 &nbsp; Working in Systems Administrations
+- 💼 &nbsp; Working in Systems Administrations and Developer
 - 🌱 &nbsp; Learning more about **Analyzing the Impact of Data Scale on Concept Change Detection**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
