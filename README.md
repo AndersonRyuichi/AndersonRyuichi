@@ -40,5 +40,5 @@
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Anderson](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonfuzino/)](https://www.linkedin.com/in/andersonfuzino/)
-[![Gmail Badge](https://img.shields.io/badge/-anderryugab@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:anderryugab@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anderryugab@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:anderryugab@outlook.com)
 [![GitHub Anderson Fuzino]( https://img.shields.io/github/followers/AndersonRyuichi?label=follow&style=social)](https://github.com/AndersonRyuichi/AndersonRyuichi)
