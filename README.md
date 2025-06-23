@@ -6,7 +6,7 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.pucpr.br">PUCPR</a>.
+- 🎓 &nbsp; **Computer Science** at <a href="https://www.pucpr.br">PUCPR</a>.
 - 🌱 &nbsp; Learning more about **Analyzing the Impact of Data Scale on Concept Change Detection**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
